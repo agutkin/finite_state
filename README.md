@@ -6,7 +6,7 @@ all of these things, the respective project homes are the best places to go.
 
 # License
 
-Apache license. See [LICENSE](LICENSE) for more information.
+Apache license. See the [LICENSE](LICENSE) file for more information.
 
 # Mandatory disclaimer
 
