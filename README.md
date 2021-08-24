@@ -3,7 +3,8 @@ Read-only **unofficial** pre-release mirrors of
 *   [OpenFst](http://www.openfst.org/),
 *   [OpenGrm Baum-Welch](http://www.opengrm.org/twiki/bin/view/GRM/BaumWelch),
 *   [OpenGrm N-Gram](http://www.openfst.org/twiki/bin/view/GRM/NGramLibrary),
-*   [OpenGrm Pynini](http://www.opengrm.org/twiki/bin/view/GRM/Pynini), and
+*   [OpenGrm Pynini](http://www.opengrm.org/twiki/bin/view/GRM/Pynini),
+*   [OpenGrm SFst](http://www.opengrm.org/twiki/bin/view/GRM/SFstLibrary), and
 *   [OpenGrm Thrax](http://www.openfst.org/twiki/bin/view/GRM/Thrax)
 
 finite state libraries. These libraries were *not* developed here, the project
