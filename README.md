@@ -14,7 +14,7 @@ homes are the best places to go.
 
 # License
 
-Apache license. See the [LICENSE](LICENSE) file for more information.
+Apache license. Please see the [LICENSE](LICENSE) file for more information.
 
 # Mandatory disclaimer
 
